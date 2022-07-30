@@ -11,6 +11,8 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "scala-lang.scala",
+        "scalameta.metals",
+        "scala-lang.scala-snippets"
     ]
 }
